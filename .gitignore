@@ -1,0 +1,8 @@
+build/
+*.elf
+*.ps5perf
+*.perf-script
+*.folded
+*.svg
+__pycache__/
+compile_flags.txt
